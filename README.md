@@ -103,6 +103,17 @@ Attendance Logging
 
 ---
 
+## How to Run
+
+1. Open MATLAB.
+2. Clone or download this repository.
+3. Run `registerStudent.m` to register students.
+4. Run `trainCNNModel.m` to train the CNN model.
+5. Launch the GUI by opening `AttendanceApp.mlapp`.
+6. Start the camera to perform real-time face recognition and attendance marking.
+
+---
+
 ## Project Structure
 
 ```
